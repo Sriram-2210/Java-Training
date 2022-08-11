@@ -1,2 +1,2 @@
 # Java-Training
-A repository for Java Programming Language
+A repository for Java Programming
